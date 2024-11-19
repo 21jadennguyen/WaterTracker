@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges with importing the package for data graphs. I had to add a line in the repository for gradle settings.
 
 ## License
 
