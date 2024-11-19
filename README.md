@@ -1,8 +1,8 @@
-# Android Project 6 - *Bitfit*
+# Android Project 6 - *Water Tracker*
 
 Submitted by: **Jaden Nguyen**
 
-**Bitfit** is a health metrics app that allows users to track water intake.
+**WaterTracker** is a health metrics app that allows users to track water intake.
 
 Time spent: **3** hours spent in total
 
